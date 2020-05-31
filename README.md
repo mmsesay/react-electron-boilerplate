@@ -19,8 +19,8 @@ This is a React-Electron boilerplate. It has Element Desktop UI and Tailwind CSS
   <a href="https://eslint.org/"><img src="./public/img/dev/eslint-padded-90.png" /></a>
   <a href="https://facebook.github.io/jest/"><img src="./public/img/dev/jest-padded-90.png" /></a>
   <a href="https://yarnpkg.com/"><img src="./public/img/dev/yarn-padded-90.png" /></a>
-  <a href="https://elemefe.github.io/"><img src="./public/img/dev/element-ui-padded-90.png" width="50px !important" height="50px !important;" /></a>
-  <a href="https://tailwindcss.com/"><img src="./public/img/dev/tailwind-css-padded-90.png" width="50px !important" height="50px !important;" /></a>
+  <a href="https://elemefe.github.io/"><img src="./public/img/dev/element-ui-padded-90.png" width="70px !important" height="70px !important;" /></a>
+  <a href="https://tailwindcss.com/"><img src="./public/img/dev/tailwind-css-padded-90.png" width="70px !important" height="70px !important;" /></a>
 </div>
 
 
